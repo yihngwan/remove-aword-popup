@@ -7,9 +7,9 @@
 // @match        *://zhenti.burningvocabulary.cn/*
 // @grant        none
 // @icon         https://zhenti.burningvocabulary.cn/favicon-16x16.png
-// @homepage     https://gist.github.com/yihngwan/e8dd03a4996acc7f3d02c5f94394c9cf
-// @updateURL    https://gist.githubusercontent.com/yihngwan/e8dd03a4996acc7f3d02c5f94394c9cf/raw/remove-aword-popup.js
-// @downloadURL  https://gist.githubusercontent.com/yihngwan/e8dd03a4996acc7f3d02c5f94394c9cf/raw/remove-aword-popup.js
+// @homepage     https://github.com/yihngwan/remove-aword-popup/tree/main
+// @updateURL    https://raw.githubusercontent.com/yihngwan/remove-aword-popup/refs/heads/main/remove-aword-popup.js
+// @downloadURL  https://raw.githubusercontent.com/yihngwan/remove-aword-popup/refs/heads/main/remove-aword-popup.js
 // ==/UserScript==
 
 (function() {
