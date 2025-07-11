@@ -7,6 +7,10 @@
 // @match        *://zhenti.burningvocabulary.cn/*
 // @grant        none
 // @icon         https://zhenti.burningvocabulary.cn/favicon-16x16.png
+// @homepage     http://github.com/yihngwan/removeAWORD
+// @updateURL    https://raw.githubusercontent.com/yihngwan/removeAWORD/refs/heads/main/removeaword.js
+// @downloadURL  https://raw.githubusercontent.com/yihngwan/removeAWORD/refs/heads/main/removeaword.js
+
 // ==/UserScript==
 (function() {
    // 'use strict';
