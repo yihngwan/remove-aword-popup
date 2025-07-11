@@ -8,8 +8,8 @@
 // @grant        none
 // @icon         https://zhenti.burningvocabulary.cn/favicon-16x16.png
 // @homepage     https://github.com/yihngwan/remove-aword-popup
-// @updateURL    https://raw.githubusercontent.com/yihngwan/remove-aword-popup/refs/heads/main/remove-aword-popup.js
-// @downloadURL  https://raw.githubusercontent.com/yihngwan/remove-aword-popup/refs/heads/main/remove-aword-popup.js
+// @updateURL    https://github.com/yihngwan/remove-aword-popup/raw/refs/heads/main/remove-aword-popup.js
+// @downloadURL  https://github.com/yihngwan/remove-aword-popup/raw/refs/heads/main/remove-aword-popup.js
 // ==/UserScript==
 
 (function() {
