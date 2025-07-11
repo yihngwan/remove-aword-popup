@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         移除真题点击单词弹窗test
+// @name         移除真题点击单词弹窗
 // @namespace    https://github.com/yihngwan/
 // @version      1.0
 // @description  尝试移除英语考研真题上的点击单词的弹窗，减少误触提高做题时候的专注
